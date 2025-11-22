@@ -1,0 +1,1 @@
+export default function App(){return <h1>P2PPro Frontend Running</h1>}
